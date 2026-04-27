@@ -16,9 +16,9 @@
 
 # `< tuposilwe />`
 
-### ⚡ Full-Stack Developer · React Specialist · Builder from Tanzania 🇹🇿
+### ⚡ Software Engineer · React Specialist · Builder from Tanzania 🇹🇿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Crafting+dynamic+%26+user-friendly+web+apps;React+%7C+JavaScript+%7C+TypeScript+%7C+Java;From+Arusha+%F0%9F%8C%8D+to+the+global+dev+scene;Clean+code+is+not+a+luxury%2C+it%27s+a+standard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Crafting+dynamic+%26+user-friendly+web+apps;React+%7C+JavaScript+%7C+TypeScript+%7C+Java;From+Tanzania+%F0%9F%8C%8D+to+the+global+dev+scene;Clean+code+is+not+a+luxury%2C+it%27s+a+standard)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuposilwe-mnkondya-788478252)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://cyberstar-d3f17.web.app/)
@@ -32,8 +32,8 @@
 
 ```yaml
 name:         "Tuposilwe Mnkondya"
-location:     "Arusha, Tanzania 🇹🇿"
-role:         "Full-Stack Developer"
+location:     "Tanzania 🇹🇿"
+role:         "Software Engineer"
 company:      "CyberStar Company Limited"
 passion:      "Crafting dynamic & user-friendly web applications"
 primary_tech: ["React", "JavaScript", "TypeScript", "Java", "C#", ".NET MAUI"]
@@ -148,6 +148,6 @@ fun_fact:     "81 repos and counting... the grind never stops"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuposilwe&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**⚡ From Arusha to the world — let's build something great together.**
+**⚡ From Tanzania to the world — let's build something great together.**
 
 </div>
